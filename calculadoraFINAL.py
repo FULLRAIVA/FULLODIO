@@ -191,7 +191,7 @@ class calculadora(object):
                         cont = True
 
 
-                    #pensar em um modo de eliminar todas as divisoes e multiplicações amanha
+                    
                    
         else:
              
